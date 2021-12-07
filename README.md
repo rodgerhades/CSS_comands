@@ -1,1 +1,1 @@
-# CSS_comands
+A series of comands in CSS language
